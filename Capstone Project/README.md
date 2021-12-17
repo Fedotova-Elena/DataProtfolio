@@ -3,10 +3,12 @@
 [Data source](https://www.kaggle.com/tejashvi14/travel-insurance-prediction-data)
 
 ## Introduction
+
 A Tour & Travels company is an Indian company which offering travel insurance packages to their customers. The new insurance package also includes covid cover. The company requires to know the which customers would be interested to buy it based on its database history.
 The insurance was offered to some of the customers in 2019 and the given data has been extracted from the performance/sales of the package during that period. The data is provided for almost 2000 of its previous customers.
 
 ### Goals of this project
+
 - Building a classification model that can predict if the customer will be interested to buy the travel insurance package.
 - Build a demographic portrait of an average insurance buyer using Tableau.
 
@@ -18,9 +20,10 @@ The insurance was offered to some of the customers in 2019 and the given data ha
 - To analyze how the presence of chronic diseases influence the desicion of buyng the insurance.
 
 ## Technologies
-**Google sheets** for data cleaning. I used if statements to convert data into binary data type.
-Data Exploration and Modeling was all done in **Jupyter Notebook**.
-**Tableau** was used for a data visualisation.
+
+-  **Google sheets** for data cleaning. I used if statements to convert data into binary data type.
+-  Data Exploration and Modeling was all done in **Jupyter Notebook**.
+-  **Tableau** was used for a data visualisation.
 
 ## Important findings
 
@@ -39,6 +42,7 @@ When customer's family size is from 5 to 9 members, there are more customers tha
 Please, check my interactive demographic analysis in [Tableau](https://public.tableau.com/views/CustomerDemographicsAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Modeling
+
 -   My best performing model was a decision tree after hyperparameter tuning with an F1-Score of 81%. The model guessed 0("No insurance") correctly in 86% of all cases and guessed 1("Insurance") correctly in 70% of all cases.
    
 -   I performed cross-validation with the average result of 77% accuracy score to ensure that every observation from the original dataset has the chance of appearing in training and test set
@@ -48,7 +52,8 @@ Please, check my interactive demographic analysis in [Tableau](https://public.ta
    2) Family members
    3) Age
     
-    ## Recommendations  
+## Recommendations  
+
 -   Prediction model Random forest is ready for use on a whole customer's data set.
 
 -   Review this demographic analysis, since this data sample is limited. The customer's age is in range of 25-35 years. 
