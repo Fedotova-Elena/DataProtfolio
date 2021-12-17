@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python for Statistics**
 
-- 💬 Ask me about **Data Visualization and Linear Regression Models**
+- 💬 Ask me about **What research I've read lately**
 
 - 📫 How to reach me **lena.a.fedotova@gmail.com**
 
