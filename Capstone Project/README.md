@@ -1,4 +1,4 @@
-# Travel Prediction Project
+# Travel Insurance Prediction Project
 
 [Data source](https://www.kaggle.com/tejashvi14/travel-insurance-prediction-data)
 
