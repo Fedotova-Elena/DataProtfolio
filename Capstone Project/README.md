@@ -39,7 +39,8 @@ In every age group, customers with higher income are more likely to buy insuranc
 
 When customer's family size is from 5 to 9 members, there are more customers that prefer to buy an insurance.
 
-Please, see my interactive demographic analysis in [Tableau](https://public.tableau.com/views/CustomerDemographicsAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+###9 Demographic analysis in **Tableau**
+![Dashboard](Dashboard.png)
 
 ### Modeling
 
