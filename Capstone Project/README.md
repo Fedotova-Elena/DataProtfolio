@@ -9,6 +9,7 @@ The insurance was offered to some of the customers during 2019 and the data has 
 The data is provided for almost 2000 previous customers.
 
 **Buisness problem**
+
 The travel agency has seen reduced sales during the pandemic and now that travel is resuming the agency feels the need to offer COVID related travel insurance in order to stay relevant in the post-pandemic marketplace. 
 The company’s current travel insurance package does not include coverage for COVID related trip cancellation or medical expenses. Offering COVID insurance could be a major differentiator for clients when deciding which travel agency to select for booking travel.
 But before changing the insurance policy the company wants to know it's customers demographics and which customers would be interested in buying a new insurance packege based on the existing historical dataset.
