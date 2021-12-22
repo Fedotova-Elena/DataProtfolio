@@ -19,20 +19,15 @@ But before changing the insurance policy the company wants to know it's customer
 -  Building a classification model that can predict if the customer will be interested to buy the travel insurance package.
 -  Building a demographic portrait of an average insurance buyer using Tableau.
 
-## Technologies
+## Data Analysis
+
+### Technologies
 
 -  [**Google sheets**](https://docs.google.com/spreadsheets/d/1-pZdBVA_4dQfpvml7Upj4WPbqAWp1WXki2kXr4sXH94/edit?usp=sharing) for data cleaning. I used if statements to convert data into binary data type.
 -  Data Exploration and Modeling was all done in **Python** using [**the Jupyter Notebook**](https://github.com/Fedotova-Elena/DataProtfolio/blob/main/Capstone%20Project/project_travel_prediction.ipynb).
 -  [**Tableau**](https://public.tableau.com/views/CustomerDemographicsAnalysis/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link) was used for a data visualisation.
 
-### Research Questions
-
--  What is a travel insurance ratio in the data set?
--  What is the corelation between the family size, age, annual income and the travel insurance variable?
--  How annual income correlate with experience in traveling(flight frequency, travelling abroad) with regard to buying the insurance?
--  How the presence of chronic diseases influence the desicion of buyng the insurance?
-
-## Methodology
+### Methodology
 
 -  Data pre-processing (handling of missing values, outliers, correlated features, etc.)
 -  Graphical and non-graphical representations of relationships between dependant and independent variables)
@@ -41,7 +36,27 @@ But before changing the insurance policy the company wants to know it's customer
 -  Results and final model selection (performance measures, etc.)
 -  Making conclusions and recommendations
 
-## Important findings
+### What do we know about the customers?
+
+-  Age - Age Of The Customer
+-  Government Sector - The customer is employed in government sector
+-  Private Sector/Self Employed - the customer is employed in private sector
+-  High_Education - Whether the customer is a college graduate or not
+-  Annual_Income - The yearly income of the customer in indian rupees [Rounded To Nearest 50 Thousand Rupees]
+-  Family_Members - Number of members in customer's family
+-  Chronic_Disease - Whether the customer suffers from any major disease or conditions like Diabetes/High BP or Asthma, etc.
+-  Frequent_Flyer - Derived data based on customer's history of booking air tickets on at least 4 different instances in the last 2 years[2017-2019]
+-  Travelled_Abroad - Has the Customer ever travelled to A foreign country[Not Necessarily Using The Company's Services]
+-  Travel_Insurance - Did the customer buy travel insurance package during introductory offering held in the year 2019
+
+### Research Questions
+
+-  What is a travel insurance ratio in the data set?
+-  What is the corelation between the family size, age, annual income and the travel insurance variable?
+-  How annual income correlate with experience in traveling(flight frequency, travelling abroad) with regard to buying the insurance?
+-  How the presence of chronic diseases influence the desicion of buyng the insurance?
+
+### Important findings
 
 At 25, there are more people buying the insurance. At 27-29, a lot more people decide not to buy insurance. It could be attributed to the expiry of the family insurance pack and since in India many people are starting families at this age they could choose to postpone the purchase.
 
