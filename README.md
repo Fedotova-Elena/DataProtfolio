@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Python for Statistics**
 
-- 💬 Ask me about **What research I've read lately**
+- 💬 Ask me about **my favorite project**
 
 - 📫 How to reach me **lena.a.fedotova@gmail.com**
 
-- ⚡ Fun fact **I love watching stand-up comedies in languages I don't know**
+- ⚡ Fun fact **I love watching stand-up comedies in French**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
