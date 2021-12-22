@@ -61,6 +61,7 @@ When a customer's family size consists of more than 5 family members, customers 
 -  78% of those who traveled abroad bought insurance which could be explained by visa requirements. 
 -  57% of frequent flyers prefer to buy insurance & 30% of non-frequent flyers. 
 -  89%-100% of customers with an annual income higher than 1,350K preferred to buy insurance with an exception of customers with 1,750K income.
+
 Overall, I wasn't able to find a significant difference between customers with and without chronic diseases. Which could be explaned by insurance policy toward to pre-exicting conditions. Before making a conclusion I would like to get familiar with company's requrenments for a travel insurance policy.  
 
 ![Dashboard](Dashboard.png)
