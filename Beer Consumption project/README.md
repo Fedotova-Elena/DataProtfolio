@@ -56,7 +56,8 @@ Now I’ll explore the weather (Temperature and Precipitation) in São Paulo thr
 
 In autumn less beer were consumed than in other seasons.
 
-![Average Beer Consumption by Season](beer_consumption_season.png)
+[Average Beer Consumption by Season](beer_consumption_season.png)
+<img src="beer_consumption_season.png" width="100" height="100"/>
 ![Summer](Summer.png)
 ![Autumn](Autumn.png)
 ![Winter](Winter.png)
