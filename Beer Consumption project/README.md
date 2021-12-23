@@ -1,21 +1,24 @@
 # Beer consumption in São Paulo.
 
-[data sourse](https://www.kaggle.com/dongeorge/beer-consumption-sao-paulo/code)
-[Jupiter Notbook](https://github.com/Fedotova-Elena/DataProtfolio/blob/main/Beer%20Consumption%20project/beer%20consumption_final.ipynb)
+-	[Data Sourse](https://www.kaggle.com/dongeorge/beer-consumption-sao-paulo/code)
+-	[Jupiter Notbook](https://github.com/Fedotova-Elena/DataProtfolio/blob/main/Beer%20Consumption%20project/beer%20consumption_final.ipynb)
+
 ## Introduction
 
 The data (sample) was collected in São Paulo — Brazil, in a university area, where there are some parties with groups of students from 18 to 28 years of age (average).
-
 What can influence consumer's decision to grab a beer? Could it be bad weather, season or something else? 
 In this project I tried to answer this question. 
 
 **Buisness problem**
 
-Keeping the right amount of product in stock is critical to businesses. Having too little means running out at inopportune times, causing customers to buy elsewhere. Having too much means paying unnecessarily high costs for storage and inventory management. This project can help to improve supply chain managment and forecast seasanal level of consumption. 
+Keeping the right amount of product in stock is critical to businesses. 
+Having too little means running out at inopportune times, causing customers to buy elsewhere. 
+Having too much means paying unnecessarily high costs for storage and inventory management. 
+This project can help to improve supply chain managment and forecast seasonal level of consumption. 
 
 ### Technology 
 
-Data Cleaning, data exploration and modeling was all done in **Python** using the **Jupyter Notebook**.
+Data cleaning, data exploration and modeling was all done in **Python** using the **Jupyter Notebook**.
 
 ### Research Questions:
 - Will beer consumption vary when there is change in weather conditions?
@@ -26,7 +29,7 @@ Data Cleaning, data exploration and modeling was all done in **Python** using th
 
 ### Goal of This Project
 
-Build a linear regression to predict how much beer will be consumed. 
+Build a linear regression to predict how much beer will be consumed based on provided attributes. 
 
 ## Data Analysis 
 
@@ -44,29 +47,29 @@ First, I did a heatmap of the Variables to see what influences beer Consumption.
 -	Maximum Temperature(0.64)
 -	Median Temperature(0.57)
 -	Weekend(0.51)
-[heatmap](heatmap.png)
+![heatmap](heatmap.png)
 
 Now I’ll explore the weather (Temperature and Precipitation) in São Paulo throughout the year. In São Paulo, the summers are warm, muggy, wet, and mostly cloudy and the winters are short, cool, and relatively dry.
 
-[Temperature Over the Year in São Paulo](annual_temp.png)
-[Precipitation Over the Year](annual_rain.png)
+![Temperature Over the Year in São Paulo](annual_temp.png)
+![Precipitation Over the Year](annual_rain.png)
 
 In autumn less beer were consumed than in other seasons.
 
-[Average Beer Consumption by Season](beer_consumption_season.png)
-[Summer](Summer.png)
-[Autumn](Autumn.png)
-[Winter](Winter.png)
-[Spring](Spring.png)
+![Average Beer Consumption by Season](beer_consumption_season.png)
+![Summer](Summer.png)
+![Autumn](Autumn.png)
+![Winter](Winter.png)
+![Spring](Spring.png)
 
 On the charts we see strong correlation between temperature and beer consumption, precipitation and beer consumption.
 People drink more when the weather is dry and warm. Also, the highier the temperature, the more liters of beer were consumed. 
 
-[Beer Consumption Temperature and Precipitation](beer_consumption_temp_rain.png)
+![Beer Consumption Temperature and Precipitation](beer_consumption_temp_rain.png)
 
 People consume more beer on weekends than on weekdays. No surprise here!
 
-[Beer Consumption Over the Week](beer_consumption_weekday.png)
+![Beer Consumption Over the Week](beer_consumption_weekday.png)
 
 ## Modeling
 
