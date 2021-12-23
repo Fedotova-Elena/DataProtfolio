@@ -64,11 +64,11 @@ At 25, there are more people buying the insurance. At 27-29, a lot more people d
 
 In every age group, customers with higher income are more likely to buy an insurance.
 
-![Age and annual income](Age_annual_income.png)
+<img src="Age_annual_income.png" width="75%" height="75%"/> 
 
 When a customer's family size consists of more than 5 family members, customers prefer to buy insurance.
 
-![Age and family size](Age_family_size.png)
+<img src="Age_family_size.png" width="75%" height="75%"/> 
 
 ### Demographic analysis in **Tableau**
 
