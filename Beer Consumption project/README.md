@@ -56,12 +56,12 @@ Now I’ll explore the weather (Temperature and Precipitation) in São Paulo thr
 
 In autumn less beer were consumed than in other seasons.
 
-[Average Beer Consumption by Season](beer_consumption_season.png)
-<img src="beer_consumption_season.png" width="100" height="100"/>
-![Summer](Summer.png)
-![Autumn](Autumn.png)
-![Winter](Winter.png)
-![Spring](Spring.png)
+<img src="beer_consumption_season.png.png" width="450" height="450"/>
+<img src="Summer.png" width="450" height="450"/>
+<img src="Autumn.png" width="450" height="450"/>
+<img src="Winter.png" width="450" height="450"/>
+<img src="Spring.png" width="450" height="450"/>
+
 
 On the charts we see strong correlation between temperature and beer consumption, precipitation and beer consumption.
 People drink more when the weather is dry and warm. Also, the highier the temperature, the more liters of beer were consumed. 
