@@ -1,4 +1,4 @@
-# Web analytics for San Francisco government site in 2015
+# Web analytics for San Francisco government site
 
 - [Data sorce](https://www.kaggle.com/san-francisco/sf-web-analytics-for-sfgov-sites?select=web-analytics-for-sfgov-sites-2015-q1q2q3q4.csv)
 - [Tableau Dashboard](https://public.tableau.com/app/profile/fedotova.elena/viz/WebAnalysisSF_ProjectforJunocollege/Dashboard1#1)
@@ -27,7 +27,7 @@ Pages analysis needs to be performed before jumping into drastic actions like de
 
 ### Goal of this project
 
--	 Analyse pages bounce rate to find out how accessible and efficient the San-Francisco government website is. 
+-	 Analyse bounce rate to find out how is accessible and efficient the San-Francisco government website. 
 
 ## Data Analysis 
 
@@ -43,10 +43,8 @@ Pages analysis needs to be performed before jumping into drastic actions like de
 
 ### Research Question
 
--	On pages with a high bounce rate, how quickly users bounced? What is the average time they spent on pages?
-
--	Pages with high bounce rate and exit rate would have less average time spent on each page?
-
+-	On pages with a high bounce rate, how quickly visitors bounced? What is the average time they spent on pages?
+-	Would pages with high bounce rate and exit rate have less average time spent on each page?
 
 ### Important findings
 
@@ -56,12 +54,11 @@ The main page of the website got 81% Bounce rate, 75% Exite Rate which is high b
 The main page refer visitors to other government websites and provides information. In gereral visitors spent there 215seconds, 3,5min.
 In this case, the webpage successfully served its purpose even though visitors viewed one page.
 
-![Dashboard 1](Dashboard1.pnd)
+![Dashboard 1](Dashboard1.png)
 
 At the same time, I found average time spend on pages quete high. Do visitors find what they looking for quickly?
 
-![Dashboard2](Dashboard2.png)
-
+![Dashboard 2](Dashboard2.png)
 
 ## Recommendations
 
