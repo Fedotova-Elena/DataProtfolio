@@ -31,6 +31,7 @@ The company’s current travel insurance package does not include coverage for C
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/paivi_drop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paivi_drop" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elena-fedotova-8444bb114/" target="_blank" rel="noopener"><img src="https://icon.signature.email/social/linkedin-square-small-0077b5-FFFFFF.png" alt="LinkedIn icon" width="40" height="30" border="0" valign="bottom"/></a>&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
