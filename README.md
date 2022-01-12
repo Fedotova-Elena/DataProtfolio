@@ -7,26 +7,29 @@ This portfolio is a compilation of notebooks and dashboards which I created for 
 
 [link](https://github.com/Fedotova-Elena/ProjectOne) 
 
-This is a SQL project using Big Query for a database system. In this project I analysed the rolling 30-day player retention rate for a mobile game company. Specific interest of this analysis is player's spending. 
+This is a SQL project using Big Query for a database system.
+In this project I analysed the 30-day player retention rate for a game company. 
+Specific interest of this analysis is there a correlation between player's spending and retention rate. 
 
 ### WEB Analysis for SF.gov
 
 [link](https://github.com/Fedotova-Elena/DataProtfolio/tree/main/Tableau%20Project) 
 
-In this project I analysed average time spent on web pages in correlation to bounce rate.
+Created a dashboard using Tableau to visualize annual data from a SF.gov website. 
+The goal of this project was to explore the correlation between bounce rate and average time spent on each web page.
 
 ### Beer Consumption Prediction
 
 [link](https://github.com/Fedotova-Elena/DataProtfolio/tree/main/Beer%20Consumption%20project) 
 
-This is a regression problem: based on information about weather and beer consumption we predict how much beer will be consumed.
+This is a linear regression problem: based on information about weather and beer consumption I predict how much beer will be consumed.
 In this project I analysed how beer consumption dependends from weather condition in São Paulo, Brazil.
 
 ### Travel Insurance Prediction Project
 
 [link](https://github.com/Fedotova-Elena/DataProtfolio/tree/main/Capstone%20Project)
 
-The company’s current travel insurance package does not include coverage for COVID related trip cancellation or medical expenses. Offering a new type of insurance could be a major differentiator for clients when they book a trip and a way to stay relevant in the post-pandemic marketplace.  But before changing the insurance policy the company wants to know which customers would be interested in buying a new insurance package and it's customer demographics. 
+I created a customer demographic analysis in Tableau and build a classification model using Python that can predict if the customer will be interested in buying the travel insurance package.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
