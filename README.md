@@ -33,8 +33,7 @@ The goal of this project is to explore the correlation between bounce rate and a
 
 [link](https://github.com/Fedotova-Elena/DataProtfolio/tree/main/Beer%20Consumption%20project) 
 
-This is a linear regression problem: based on information about weather and beer consumption I predict how much beer will be consumed.
-In this project I analysed how beer consumption dependends from weather condition in São Paulo, Brazil.
+This is a linear regression problem: based on information about weather and beer consumption I predict how much beer will be consumed. In this project, I analyzed how beer consumption depends on the weather conditions in São Paulo, Brazil.
 
 ### Travel Insurance Prediction Project
 
