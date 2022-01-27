@@ -5,7 +5,7 @@
 
 As a Data Analyst, I like solving problems from a strategic perspective, all solutions should be beneficial for clients and businesses and I have a passion for accurate work and attention to detail.
 
-Before my Data Analytics career change, I was a Travel Consultant and later, a Statistitian in a Digital Marketing Agency where I discovered my passion for analyzing and manipulating data. I left that role with a strong ability to identify & manage different needs, solve complex problems, evaluate solutions and work with multiple deadlines.
+Before my Data Analytics career change, I was a Travel Consultant and later, a Statistician in a Digital Marketing Agency where I discovered my passion for analyzing and manipulating data. I left that role with a strong ability to identify & manage different needs, solve complex problems, evaluate solutions and work with multiple deadlines.
 I have been living abroad in different countries for 5 years which helped me to improve my ability to be receptive and flexible to different ideas, perspectives, and changing demands.
 
 To begin my career change, I completed Juno College’s Intro to DA Course and Juno College’s DA Immersive Bootcamp.
