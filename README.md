@@ -8,7 +8,7 @@ As a Data Analyst, I like solving problems from a strategic perspective, all sol
 Before my Data Analytics career change, I was a Travel Consultant and later, a Statistitian in a Digital Marketing Agency where I discovered my passion for analyzing and manipulating data. I left that role with a strong ability to identify & manage different needs, solve complex problems, evaluate solutions and work with multiple deadlines.
 I have been living abroad in different countries for 5 years which helped me to improve my ability to be receptive and flexible to different ideas, perspectives, and changing demands.
 
-To begin my career change, I completed Juno College’s Intro to DA Course and now I'm at Juno College’s DA Bootcamp.
+To begin my career change, I completed Juno College’s Intro to DA Course and Juno College’s DA Immersive Bootcamp.
 I'm excited to improve my skills in Python, SQL and Tableau and explore data in meaningful ways.
 
 Take a look at my [Tableau Profile](https://public.tableau.com/app/profile/fedotova.elena)
