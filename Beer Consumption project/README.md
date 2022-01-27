@@ -1,7 +1,7 @@
 # Beer consumption in São Paulo.
 
 -	[Data Sourse](https://www.kaggle.com/dongeorge/beer-consumption-sao-paulo/code)
--	[Jupiter Notbook](https://github.com/Fedotova-Elena/DataProtfolio/blob/main/Beer%20Consumption%20project/beer%20consumption_final.ipynb)
+-	[Jupiter Notebook](https://github.com/Fedotova-Elena/DataProtfolio/blob/main/Beer%20Consumption%20project/beer%20consumption_final.ipynb)
 
 ## Introduction
 
