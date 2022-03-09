@@ -80,7 +80,7 @@ People consume more beer on weekends than on weekdays. No surprise here!
 Simple linear regression is commonly used in forecasting.
 I built a Linear Regression Model with accuracy score 72% to predict beer consumption based on the weather temperature throughout the year and day of the week.
 
-## Recomendation 
+## Recommendation 
 
 Before using this model for adjusting and modifying the supply chain I would suggest to find and add more relative data to this data set to make the prediction more accurate. 
 The list of the official holidays in Brazil, soccer/football games schedule would be useful and since this data is relative to the university area, it would be great to know important days from a student schedule, for example, when they got breaks.
