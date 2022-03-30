@@ -60,15 +60,15 @@ But before changing the insurance policy the company wants to know it's customer
 
 At 25, there are more people buying the insurance. At 27-29, a lot more people decide not to buy insurance. It could be attributed to the expiry of the family insurance pack and since in India many people are starting families at this age they could choose to postpone the purchase.
 
-![Travel insurance and all variables](Travel_insurance_variables.png)
+![Travel insurance and all variables](code/Travel_insurance_variables.png)
 
 In every age group, customers with higher income are more likely to buy an insurance.
 
-<img src="Age_annual_income.png" width="75%" height="75%"/> 
+<img src="(code/Age_annual_income.png" width="75%" height="75%"/> 
 
 When a customer's family size consists of more than 5 family members, customers prefer to buy insurance.
 
-<img src="Age_family_size.png" width="75%" height="75%"/> 
+<img src="code/Age_family_size.png" width="75%" height="75%"/> 
 
 ### Demographic analysis in **Tableau**
 
@@ -79,7 +79,7 @@ When a customer's family size consists of more than 5 family members, customers 
 
 Overall, I wasn't able to find a significant difference between customers with and without chronic diseases. Which could be explaned by insurance policy toward to pre-exicting conditions. Before making a conclusion I would like to get familiar with company's requrenments for a travel insurance policy.  
 
-![Dashboard](Dashboard.png)
+![Dashboard](code/Dashboard.png)
 
 ### Model training and Evaluation
 
