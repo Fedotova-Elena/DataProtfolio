@@ -47,7 +47,7 @@ First, I did a heatmap of the Variables to see what influences beer Consumption.
 -	Maximum Temperature(0.64)
 -	Median Temperature(0.57)
 -	Weekend(0.51)
-![heatmap](heatmap.png)
+![heatmap](code/heatmap.png)
 
 Now I’ll explore the weather (Temperature and Precipitation) in São Paulo throughout the year. In São Paulo, the summers are warm, muggy, wet, and mostly cloudy and the winters are short, cool, and relatively dry.
 
