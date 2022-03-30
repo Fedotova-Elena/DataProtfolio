@@ -56,7 +56,7 @@ Now I’ll explore the weather (Temperature and Precipitation) in São Paulo thr
 
 In autumn less beer were consumed than in other seasons.
 
-<img src="beer_consumption_season.png" width="450" height="450"/>
+<img src="code/beer_consumption_season.png" width="450" height="450"/>
 <p float="left">
 <img src="code/Summer.png" width="400" height="400"/> 
 <img src="code/Autumn.png" width="400" height="400"/>
@@ -84,4 +84,3 @@ I built a Linear Regression Model with accuracy score 72% to predict beer consum
 
 Before using this model for adjusting and modifying the supply chain I would suggest to find and add more relative data to this data set to make the prediction more accurate. 
 The list of the official holidays in Brazil, soccer/football games schedule would be useful and since this data is relative to the university area, it would be great to know important days from a student schedule, for example, when they got breaks.
-
