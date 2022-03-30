@@ -54,11 +54,11 @@ The main page of the website got 81% Bounce rate, 75% Exite Rate which is high b
 The main page refer visitors to other government websites and provides information. In gereral visitors spent there 215seconds, 3,5min.
 In this case, the webpage successfully served its purpose even though visitors viewed one page.
 
-![Dashboard 1](Dashboard1.png)
+![Dashboard 1](code/Dashboard1.png)
 
 At the same time, I found average time spend on pages quete high. Do visitors find what they looking for quickly?
 
-![Dashboard 2](Dashboard2.png)
+![Dashboard 2](code/Dashboard2.png)
 
 ## Recommendations
 
