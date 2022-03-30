@@ -51,29 +51,29 @@ First, I did a heatmap of the Variables to see what influences beer Consumption.
 
 Now I’ll explore the weather (Temperature and Precipitation) in São Paulo throughout the year. In São Paulo, the summers are warm, muggy, wet, and mostly cloudy and the winters are short, cool, and relatively dry.
 
-![Temperature Over the Year in São Paulo](annual_temp.png)
-![Precipitation Over the Year](annual_rain.png)
+![Temperature Over the Year in São Paulo](code/annual_temp.png)
+![Precipitation Over the Year](code/annual_rain.png)
 
 In autumn less beer were consumed than in other seasons.
 
 <img src="beer_consumption_season.png" width="450" height="450"/>
 <p float="left">
-<img src="Summer.png" width="400" height="400"/> 
-<img src="Autumn.png" width="400" height="400"/>
+<img src="code/Summer.png" width="400" height="400"/> 
+<img src="code/Autumn.png" width="400" height="400"/>
 </p>
 <p float="left">
-<img src="Winter.png" width="400" height="400"/> 
-<img src="Spring.png" width="400" height="400"/>
+<img src="code/Winter.png" width="400" height="400"/> 
+<img src="code/Spring.png" width="400" height="400"/>
 </p>
 
 On the charts we see strong correlation between temperature and beer consumption, precipitation and beer consumption.
 People drink more when the weather is dry and warm. Also, the highier the temperature, the more liters of beer were consumed. 
 
-![Beer Consumption Temperature and Precipitation](beer_consumption_temp_rain.png)
+![Beer Consumption Temperature and Precipitation](code/beer_consumption_temp_rain.png)
 
 People consume more beer on weekends than on weekdays. No surprise here!
 
-<img src="beer_consumption_weekday.png" width="450" height="450"/>
+<img src="code/beer_consumption_weekday.png" width="450" height="450"/>
 
 ## Modeling
 
